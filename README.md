@@ -388,6 +388,8 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://gnometerminator.blogspot.com/p/introduction.html"><b>Terminator</b></a> - is based on GNOME Terminal, useful features for sysadmins and other users.<br>
 &nbsp;&nbsp; <a href="https://sw.kovidgoyal.net/kitty/"><b>Kitty</b></a> - is a GPU based terminal emulator that supports smooth scrolling and images.<br>
 &nbsp;&nbsp; <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is a fast, cross-platform, OpenGL terminal emulator.<br>
+&nbsp;&nbsp; <a href="https://github.com/wez/wezterm"><b>Wezterm</b></a> - is a GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.<br>
+&nbsp;&nbsp; <a href="https://github.com/ghostty-org/ghostty"><b>Ghostty</b></a> - is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.<br>
 </p>
 
 ##### :black_small_square: Network
