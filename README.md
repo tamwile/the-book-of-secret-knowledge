@@ -1712,6 +1712,8 @@ text :arrow_left: encoded
   * [certbot](#tool-certbot)
   * [network-other](#tool-network-other)
   * [git](#tool-git)
+  * [python](#tool-python)
+  * [erlang](#tool-erlang)
   * [awk](#tool-awk)
   * [sed](#tool-sed)
   * [grep](#tool-grep)
@@ -4042,6 +4044,16 @@ python -m base64 -e <<< "sample string"
 ```bash
 python -m base64 -d <<< "dGhpcyBpcyBlbmNvZGVkCg=="
 ```
+
+##### Tool: [erlang](https://www.erlang.org/)
+
+###### Static HTTP web server
+
+```bash
+erl -S httpd serve --port 8000 /path/to/serve
+```
+
+ __
 
 ##### Tool: [awk](http://www.grymoire.com/Unix/Awk.html)
 
